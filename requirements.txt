@@ -1,0 +1,6 @@
+pandas
+groq
+requests
+python-dotenv
+apify-client
+openpyxl

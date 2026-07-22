@@ -1,0 +1,75 @@
+{
+  "ideal_influencer_profile": {
+    "gender": "female",
+    "followers_range": "10k-150k",
+    "account_characteristics": [
+      "moderate follower count (10k‑150k)",
+      "posts count between 200‑1000 (active account)",
+      "high Reels ratio (>70% of posts are video)",
+      "regular posting schedule (2‑4 times per week)",
+      "active story highlights for fashion, collaborations, lifestyle",
+      "bio includes bullet‑point format and emojis"
+    ],
+    "bio_patterns": [
+      "bullet‑point list with emojis (e.g., •, 🔥, 💖)",
+      "short tagline about style/fashion or personal vibe",
+      "location tag (city, e.g., Moscow, CIS region)",
+      "contact info for collaborations (DM, email, @handle)",
+      "call‑to‑action (e.g., \"Смотрите больше в Telegram\", \"Сотрудничество: @...\")"
+    ],
+    "main_niches": [
+      "women's fashion (clothing, accessories)",
+      "beauty & skincare",
+      "lifestyle & travel",
+      "home & decor",
+      "parenting/family (optional, when relevant)"
+    ],
+    "content_style": [
+      "short‑form Reels showcasing outfits, hauls, styling tips",
+      "carousel/photo posts with detailed product shots",
+      "story highlights for behind‑the‑scenes and promos",
+      "UGC style product reviews and unboxings",
+      "occasionally travel or home‑tour videos"
+    ],
+    "caption_style": [
+      "concise, list‑like sentences",
+      "mix of Russian and occasional English phrases",
+      "emoji‑rich (💖, 🔥, 👗, 🌸, etc.)",
+      "heavy use of branded hashtags and call‑to‑action",
+      "personal storytelling combined with promotional tags"
+    ],
+    "visual_style": [
+      "clean, polished aesthetic with soft, natural lighting",
+      "neutral color palette (beige, white, gray, black) with accent colors (soft pink, burgundy, gold)",
+      "minimalist backgrounds (plain walls, simple indoor settings, urban streets)",
+      "balanced composition, garment centered",
+      "occasional vintage texture (wood, wallpaper) for depth"
+    ],
+    "fashion_style": [
+      "classic, timeless pieces with feminine silhouettes",
+      "structured dresses, blazers, tailored trousers, skirts, coats",
+      "subtle prints, elegant fabrics, light layering",
+      "accessories such as gold jewelry, sleek bags, minimalist shoes",
+      "overall vibe of refined elegance and effortless chic"
+    ],
+    "lifestyle_style": [
+      "aspirational urban lifestyle (cafés, boutique interiors)",
+      "cozy home & decor moments (well‑lit rooms, minimal furnishings)",
+      "travel snapshots (cityscapes, nature, weekend getaways)",
+      "wellness/slow‑living cues (tea, books, self‑care)",
+      "family or motherhood moments when relevant, kept elegant"
+    ],
+    "engagement_profile": {
+      "engagement_rate": "2‑5% (typical for micro‑mid tier)",
+      "view_rate": "10‑20% per Reel",
+      "commercial_ready": true
+    },
+    "brand_fit": [
+      "elegant women’s clothing lines",
+      "premium accessories (bags, jewelry, shoes)",
+      "high‑end beauty & skincare brands",
+      "luxury lifestyle & home‑decor labels",
+      "travel & leisure brands targeting sophisticated female audience"
+    ]
+  }
+}
